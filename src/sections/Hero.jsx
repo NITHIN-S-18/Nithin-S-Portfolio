@@ -18,7 +18,7 @@ const Hero = () => {
     <section id="hero" className="relative overflow-hidden">
       {/* Background */}
       <div className="absolute top-0 left-0 z-0">
-        <img src="/images/bg.png" alt="" />
+  <img src="images/bg.png" alt="" />
       </div>
 
       {/* Main Layout */}

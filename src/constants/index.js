@@ -1,13 +1,13 @@
 {/* words array for hero section */ }
 const words = [
-  { text: "Ideas", imgPath: "/images/ideas.svg" },
-  { text: "Concepts", imgPath: "/images/concepts.svg" },
-  { text: "Designs", imgPath: "/images/designs.svg" },
-  { text: "Code", imgPath: "/images/code.svg" },
-  { text: "Ideas", imgPath: "/images/ideas.svg" },
-  { text: "Concepts", imgPath: "/images/concepts.svg" },
-  { text: "Designs", imgPath: "/images/designs.svg" },
-  { text: "Code", imgPath: "/images/code.svg" },
+  { text: "Ideas", imgPath: "images/ideas.svg" },
+  { text: "Concepts", imgPath: "images/concepts.svg" },
+  { text: "Designs", imgPath: "images/designs.svg" },
+  { text: "Code", imgPath: "images/code.svg" },
+  { text: "Ideas", imgPath: "images/ideas.svg" },
+  { text: "Concepts", imgPath: "images/concepts.svg" },
+  { text: "Designs", imgPath: "images/designs.svg" },
+  { text: "Code", imgPath: "images/code.svg" },
 ];
 
 {/* navbar links */}
@@ -57,31 +57,31 @@ const navLinks = [
 const techStackIcons = [
   {
     name: "React Developer",
-    modelPath: "/models/react_logo-transformed.glb",
+  modelPath: "models/react_logo-transformed.glb",
     scale: 1,
     rotation: [0, 0, 0],
   },
   {
     name: "Python Developer",
-    modelPath: "/models/python-transformed.glb",
+  modelPath: "models/python-transformed.glb",
     scale: 0.8,
     rotation: [0, 0, 0],
   },
   {
     name: "Backend Developer",
-    modelPath: "/models/node-transformed.glb",
+  modelPath: "models/node-transformed.glb",
     scale: 5,
     rotation: [0, -Math.PI / 2, 0],
   },
   {
     name: "Interactive Developer",
-    modelPath: "/models/three.js-transformed.glb",
+  modelPath: "models/three.js-transformed.glb",
     scale: 0.05,
     rotation: [0, 0, 0],
   },
   {
     name: "Project Manager",
-    modelPath: "/models/git-svg-transformed.glb",
+  modelPath: "models/git-svg-transformed.glb",
     scale: 0.05,
     rotation: [0, -Math.PI / 4, 0],
   },
@@ -92,8 +92,8 @@ const techStackIcons = [
   {
     title: "🚀 Looking for Opportunities",
     date: "Present",
-    imgPath: "/images/image.png",   // placeholder image
-    logoPath: "/images/logo0.png", // placeholder logo
+  imgPath: "images/image.png",   // placeholder image
+  logoPath: "images/logo0.png", // placeholder logo
     responsibilities: [
       "Building responsive and creative websites with React & JavaScript",
       "Translating designs into smooth, user-friendly interfaces",
@@ -107,7 +107,7 @@ const techStackIcons = [
 const expLogos = [
   {
     name: "logo1",
-    imgPath: "/images/logo0.png",
+  imgPath: "images/logo0.png",
   },
 
   
@@ -118,13 +118,13 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "A modern 3D portfolio built with React and Tailwind.",
-    image: "/images/final.png",
+  image: "images/final.png",
     github: "https://github.com/yourusername/portfolio",
   },
   {
     title:"GitHub Profile",
     description:"A professional and modern GitHub profile showcasing my skills, tech stack, and projects. Includes GitHub stats, top languages, and quick contact links",
-    image:"/images/readme.png",
+  image:"images/readme.png",
     github:"https://github.com/NITHIN-S-18/NITHIN-S-18"
   }
 ];
@@ -133,22 +133,22 @@ const projects = [
 const socialImgs = [
   {
     name: "insta",
-    imgPath: "/images/insta.png",
+  imgPath: "images/insta.png",
     link: "",
   },
   {
     name: "github",
-    imgPath: "/images/gitlogo.png",
+  imgPath: "images/gitlogo.png",
     link: "https://github.com/NITHIN-S-18",
   },
   {
     name: "x",
-    imgPath: "/images/x.png",
+  imgPath: "images/x.png",
     link: "https://x.com/Nithin77Nithin",
   },
   {
     name: "linkedin",
-    imgPath: "/images/linkedin.png",
+  imgPath: "images/linkedin.png",
     link: "https://www.linkedin.com/in/nithin-s-9493482a5/",
   },
 ];

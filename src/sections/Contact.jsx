@@ -103,9 +103,9 @@ const Contact = () => {
       {loading ? "Sending..." : "Send Message"}
     </p>
     {/* Arrow only visible on sm (laptop/desktop) and above */}
-    <div className="arrow-wrapper ml-2 hidden sm:flex">
+      <div className="arrow-wrapper ml-2 hidden sm:flex">
       <img 
-        src="/images/arrow-down.svg" 
+        src="images/arrow-down.svg" 
         alt="arrow" 
         className="w-4 h-4 sm:w-5 sm:h-5" 
       />
