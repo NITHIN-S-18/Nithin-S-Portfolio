@@ -1,12 +1,49 @@
-# React + Vite
+Nithin S Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive 3D web experience built to showcase creativity, projects, and skills.
 
-Currently, two official plugins are available:
+Step into my web world! This portfolio highlights my projects and frontend skills with modern web technologies like React, Three.js, Vite, and Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Table of Contents
 
-## Expanding the ESLint configuration
+Highlights
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tech Stack
+
+Live Experience
+
+Highlights ✨
+
+🔹 Immersive 3D Graphics: Dynamic 3D models and animations with Three.js
+
+🔹 Seamless Responsiveness: Works perfectly on mobile, tablet, and desktop screens
+
+🔹 Smooth Navigation: Intuitive and engaging browsing experience
+
+🔹 Project Showcase: Explore projects with descriptions and links
+
+🔹 Optimized Performance: Vite ensures fast loading and smooth interactions
+
+Tech Stack 🛠️
+
+Frontend:
+
+React.js
+
+Three.js
+
+Vite
+
+Tailwind CSS
+
+JavaScript
+
+HTML
+
+Hosting:
+
+GitHub Pages
+
+Live Experience 🌐
+
+Check out the live portfolio here: Nithin S Portfolio
