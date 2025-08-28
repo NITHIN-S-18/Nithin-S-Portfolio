@@ -119,7 +119,7 @@ const projects = [
     title: "Portfolio Website",
     description: "A modern 3D portfolio built with React and Tailwind.",
   image: "images/final.png",
-    github: "https://github.com/yourusername/portfolio",
+    github: "https://github.com/NITHIN-S-18/Nithin-S-Portfolio",
   },
   {
     title:"GitHub Profile",
