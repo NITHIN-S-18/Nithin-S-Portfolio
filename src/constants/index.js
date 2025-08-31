@@ -126,6 +126,12 @@ const projects = [
     description:"A professional and modern GitHub profile showcasing my skills, tech stack, and projects. Includes GitHub stats, top languages, and quick contact links",
   image:"images/readme.png",
     github:"https://github.com/NITHIN-S-18/NITHIN-S-18"
+  },
+  {
+    title: "To-Do_App",
+    description: "A simple and user-friendly To-Do app built with React, allowing users to manage tasks efficiently with add, edit, and delete functionalities.",
+  image: "images/todo.png",
+    github: "https://github.com/NITHIN-S-18/To-Do-List"
   }
 ];
 
